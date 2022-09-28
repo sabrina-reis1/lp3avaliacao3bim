@@ -16303,8 +16303,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Samsung\\Downloads\\avl\\avaliacao-lp3\\Views\\AdmLoja\\GerenciamentoLojas.cshtml",
-      "TargetPath": "Views\\AdmLoja\\GerenciamentoLojas.cshtml",
+      "FilePath": "c:\\Users\\Samsung\\Downloads\\avl\\avaliacao-lp3\\Views\\Admin\\CadastrarLoja.cshtml",
+      "TargetPath": "Views\\Admin\\CadastrarLoja.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Samsung\\Downloads\\avl\\avaliacao-lp3\\Views\\Admin\\Cadastramento.cshtml",
+      "TargetPath": "Views\\Admin\\Cadastramento.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16313,13 +16318,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Samsung\\Downloads\\avl\\avaliacao-lp3\\Views\\Home\\Lista.cshtml",
-      "TargetPath": "Views\\Home\\Lista.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Samsung\\Downloads\\avl\\avaliacao-lp3\\Views\\AdmLoja\\CadastrarLoja.cshtml",
-      "TargetPath": "Views\\AdmLoja\\CadastrarLoja.cshtml",
+      "FilePath": "c:\\Users\\Samsung\\Downloads\\avl\\avaliacao-lp3\\Views\\Admin\\DetalheLoja.cshtml",
+      "TargetPath": "Views\\Admin\\DetalheLoja.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16328,18 +16328,13 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Samsung\\Downloads\\avl\\avaliacao-lp3\\Views\\Admin\\Deletar.cshtml",
+      "TargetPath": "Views\\Admin\\Deletar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Samsung\\Downloads\\avl\\avaliacao-lp3\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Samsung\\Downloads\\avl\\avaliacao-lp3\\Views\\AdmLoja\\Cadastramento.cshtml",
-      "TargetPath": "Views\\AdmLoja\\Cadastramento.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Samsung\\Downloads\\avl\\avaliacao-lp3\\Views\\AdmLoja\\DetalheLoja.cshtml",
-      "TargetPath": "Views\\AdmLoja\\DetalheLoja.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -16348,13 +16343,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Samsung\\Downloads\\avl\\avaliacao-lp3\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\Samsung\\Downloads\\avl\\avaliacao-lp3\\Views\\Admin\\GerenciamentoLojas.cshtml",
+      "TargetPath": "Views\\Admin\\GerenciamentoLojas.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Samsung\\Downloads\\avl\\avaliacao-lp3\\Views\\AdmLoja\\Deletar.cshtml",
-      "TargetPath": "Views\\AdmLoja\\Deletar.cshtml",
+      "FilePath": "c:\\Users\\Samsung\\Downloads\\avl\\avaliacao-lp3\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
